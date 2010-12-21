@@ -1,0 +1,13 @@
+"Gamemode"
+{
+	"name"		"UnderDone"
+	"version"	"1.0"
+
+	"author_name"	"Shell Shocked & TowerYard Entertainment"
+	"author_email"	"polkmpolkmpolkm@gmail.com"
+	"author_url"	"http://shellshocked.net46.net/"
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
+}
